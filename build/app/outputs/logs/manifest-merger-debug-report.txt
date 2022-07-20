@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\25159615bd96cd8795a5ad5e6ed3261e\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\bba7fe187991300ce828e99982fc52c5\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\945be7c84d4026775a1d22cb8add1701\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\0ad59473b693e411ef3387255b87453e\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\332ccad2246f2dbcebeaa0c79336d406\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\41faa5c8c88709c690eaf478bc4a6a15\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\6d780d75dc1351cda1edc4138cefc939\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\8080171d421ee2c773d541e2e258edf1\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\188d8348a6f6f99b71ebe30f0c32404f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\66439f585a463a810972692a9d336417\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\446e55b6f7da5e1546154641c715d79d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\b12d9376b192c8b47b7d59b8438e5799\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ae773ee180452ba3851b8b67acd3f6e0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\4a662b7c971e873698e1a34513529b37\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\a7e99cd6e5d85f724a7fa4eb6239b679\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\91ab89f445200dabe67b326af8790a89\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:3:4-41:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\6d780d75dc1351cda1edc4138cefc939\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\6d780d75dc1351cda1edc4138cefc939\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\4a662b7c971e873698e1a34513529b37\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\4a662b7c971e873698e1a34513529b37\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\6d780d75dc1351cda1edc4138cefc939\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:4:9-38
+	android:icon
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.example.covid_tracker.MainActivity
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:6:9-35:20
+	android:launchMode
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:windowSoftInputMode
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:13:13-55
+	android:exported
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:7:9-32
+	android:configChanges
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:11:13-163
+	android:theme
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:10:13-47
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:18:13-21:17
+	android:resource
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:20:15-52
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:19:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:27:13-30:17
+	android:resource
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:29:15-61
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:28:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:33:27-74
+meta-data#flutterEmbedding
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:38:9-40:33
+	android:value
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:40:13-30
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml:39:13-44
+uses-sdk
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\25159615bd96cd8795a5ad5e6ed3261e\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\25159615bd96cd8795a5ad5e6ed3261e\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\bba7fe187991300ce828e99982fc52c5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\bba7fe187991300ce828e99982fc52c5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\945be7c84d4026775a1d22cb8add1701\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\945be7c84d4026775a1d22cb8add1701\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\0ad59473b693e411ef3387255b87453e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\0ad59473b693e411ef3387255b87453e\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\332ccad2246f2dbcebeaa0c79336d406\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\332ccad2246f2dbcebeaa0c79336d406\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\41faa5c8c88709c690eaf478bc4a6a15\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\41faa5c8c88709c690eaf478bc4a6a15\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\6d780d75dc1351cda1edc4138cefc939\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\6d780d75dc1351cda1edc4138cefc939\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\8080171d421ee2c773d541e2e258edf1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\8080171d421ee2c773d541e2e258edf1\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\188d8348a6f6f99b71ebe30f0c32404f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\188d8348a6f6f99b71ebe30f0c32404f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\66439f585a463a810972692a9d336417\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\66439f585a463a810972692a9d336417\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\446e55b6f7da5e1546154641c715d79d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\446e55b6f7da5e1546154641c715d79d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\b12d9376b192c8b47b7d59b8438e5799\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\b12d9376b192c8b47b7d59b8438e5799\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ae773ee180452ba3851b8b67acd3f6e0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ae773ee180452ba3851b8b67acd3f6e0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\4a662b7c971e873698e1a34513529b37\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\4a662b7c971e873698e1a34513529b37\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\a7e99cd6e5d85f724a7fa4eb6239b679\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\a7e99cd6e5d85f724a7fa4eb6239b679\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\91ab89f445200dabe67b326af8790a89\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\91ab89f445200dabe67b326af8790a89\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from F:\Flutter_projects\covid_api_app\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\MSI\.gradle\caches\transforms-2\files-2.1\ba24b5165d2caa55012bd771930f8a8c\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
