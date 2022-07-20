@@ -1,4 +1,4 @@
-#Wed Jul 20 11:21:47 IST 2022
+#Wed Jul 20 19:14:08 IST 2022
 base.1=F\:\\Flutter_projects\\covid_api_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=F\:\\Flutter_projects\\covid_api_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
